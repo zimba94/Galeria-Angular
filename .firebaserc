@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fotosapp-16914": {
+      "hosting": {
+        "fotosfirebase": [
+          "fotosapp-16914"
+        ]
+      }
+    }
+  }
+}
